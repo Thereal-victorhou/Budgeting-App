@@ -1,1 +1,5 @@
 # Budgeting-App
+
+python -m venv venv
+source venv/bin/activate  # Mac/Linux
+pip install -r requirements.txt
